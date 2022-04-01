@@ -5,7 +5,7 @@
         "post": "lorem ipsum dolor sit amet, consectet",
         "createdBy":"Daryl Mitchell",
         "createdAt":"Friday 4/1/2022",
-        "postMedia":"../assets/one.jpg"
+        "postMedia":"https://unsplash.com/photos/sGJ6QSqdK0U"
         
     },
     {
@@ -13,7 +13,17 @@
         "post": "lorem ipsum dolor sit amet, consectet",
         "createdBy":"David warner",
         "createdAt":"Friday 4/1/2022",
-        "postMedia":"../assets/two.jpg"
+        "postMedia":"https://images.unsplash.com/photo-1648655094036-94117f3dbc0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        
+    },
+    {
+        "id": 3,
+        "post": "lorem ipsum dolor sit amet, consectet",
+        "createdBy":"David warner",
+        "createdAt":"Friday 4/1/2022",
+        "postMedia":" https://images.unsplash.com/photo-1648743814295-eea2166d0bce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=382&q=80"
         
     }
+
+   
 ]
