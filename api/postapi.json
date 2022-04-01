@@ -1,0 +1,19 @@
+
+[
+    {
+        "id": 1,
+        "post": "lorem ipsum dolor sit amet, consectet",
+        "createdBy":"Daryl Mitchell",
+        "createdAt":"Friday 4/1/2022",
+        "postMedia":"../assets/one.jpg"
+        
+    },
+    {
+        "id": 2,
+        "post": "lorem ipsum dolor sit amet, consectet",
+        "createdBy":"David warner",
+        "createdAt":"Friday 4/1/2022",
+        "postMedia":"../assets/two.jpg"
+        
+    }
+]
